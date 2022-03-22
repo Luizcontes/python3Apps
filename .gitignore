@@ -1,1 +1,3 @@
 /.venv
+/pythonCrashCourse/__pycache__
+/pythonCrashCourse/chapter9/__pycache__
