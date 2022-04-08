@@ -1,6 +1,6 @@
 import json
 
-numbers = [2, 3, 5, 7, 11, 13]
+numbers = [1, 2, 3, 4]
 
 filename = 'pythonCrashCourse/chapter10/numbers.json'
 with open(filename, 'w') as f:
